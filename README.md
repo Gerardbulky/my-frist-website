@@ -1,7 +1,3 @@
-# Code Institute
+# My Very Frist Web Page
 
-Welcome gerardambe,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Welcome!
